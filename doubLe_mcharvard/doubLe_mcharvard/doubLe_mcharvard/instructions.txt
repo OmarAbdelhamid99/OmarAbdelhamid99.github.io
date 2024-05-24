@@ -1,0 +1,15 @@
+ldi r1, 15
+ldi r2, 16
+add r1, r2
+sub r1, r2
+mul r1, r2
+add r1, r1
+ldi r1, 0
+beqz r1, 2
+and r1, r2
+or r1, r2
+jr r1, r2
+slc r1, 2
+src r1, 2
+lb r1, 2
+sb r1, 2
