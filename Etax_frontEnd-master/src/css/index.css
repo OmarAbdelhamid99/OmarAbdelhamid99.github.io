@@ -1,0 +1,69 @@
+/*Some Styles To Get You Started*/
+/* Main Colors Primary, Secondry and HTML Start */
+@import url(../css/fonts.css);
+:root {
+      --primary-color: #002e6d;
+      --color-red: #e1251b;
+      --coolor-black-: #000000;
+      --color-white: #fff;
+      --main-transition: 0.3s;
+      /* Font/text values */
+      
+      --font-style-normal: normal;
+      --font-weight-bold: bold;
+      --font-weight-normal: normal;
+      --font-size-20: 20px;
+      --character-spacing-0: 0px;
+      --line-spacing-30: 30px;
+}
+
+
+html {
+      scroll-behavior: smooth;
+}
+
+*,
+:after,
+:before {
+      border: 0 solid transparent;
+}
+
+[type=button],
+[type=reset],
+[type=submit],
+button {
+      cursor: pointer;
+}
+body {
+      color: var(--primary-color);
+      font-family: Amiri-regular;
+}
+.containerr{
+      width: 80% !important;
+      margin: 0 auto!important;
+
+}
+ol, ul {
+    padding: 0px;
+}
+a {
+   text-decoration: none;
+}
+.m-tb-120{
+      margin-top: 120px;
+      margin-bottom: 120px;
+}
+img {
+      width: 100%;
+}
+ul {
+      list-style: none;
+}
+.bg-button{
+      background-color: var(--primary-color);
+}
+h1,h2,h3,h4,h5{
+      color: var(--color-red);
+      opacity: 1;
+      font-weight: bold;
+}

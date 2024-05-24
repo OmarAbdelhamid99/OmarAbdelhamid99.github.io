@@ -1,0 +1,30 @@
+.services {
+      /* margin: 80px 0px; */
+
+
+}
+.services .card {
+      border: 1px solid #002E6D4D;
+      border-radius: 20px;
+      padding: 20px;
+
+}
+
+.services .tiltle_services_card {
+      font-style: normal;
+      font-weight: bold;
+      font-size: 30px;
+      letter-spacing: 0px;
+      text-align: right;
+      color: #002E6D;
+}
+
+.services .body_services_card {
+      font-style: normal;
+      font-weight: normal;
+      font-size: 20px;
+      letter-spacing: 0px;
+      text-align: right;
+      color: #262626;
+
+}

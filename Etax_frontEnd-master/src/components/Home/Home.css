@@ -1,0 +1,33 @@
+
+.home-page {
+      /* margin: 80px 0px; */
+
+}
+.cards-home {
+      margin-top: 50px;
+}
+.btn-serv {
+      padding:8px 35px;
+      box-shadow: 0px 4px 8px #2C273814;
+      border-radius: 6px;
+      border: none;
+      font-size: 35px;
+      font: normal normal bold 20px/35px Amiri-regular;
+      
+}
+.btn-serv:hover {
+      background-color: #e1251b;
+      
+}
+.card-content-home {
+      max-width:680px;
+      opacity: 1;
+      font-size: 35px;
+}
+.text-stlye-header {
+      text-align: right;
+      letter-spacing: 0px;
+      font-size: 45px;
+      color: #e1251b;
+
+}

@@ -1,0 +1,14 @@
+
+.heading {
+      font-size: 40px;
+      font-weight: bold;
+      font-family: Amiri-regular;
+}
+
+.main-heading p {
+      font-style: normal;
+      font-weight: bold;
+      font-size: 30px;
+      letter-spacing: 30px/(--line-spacing-30);
+      font-family: Amiri-regular;
+}
